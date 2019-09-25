@@ -28,3 +28,6 @@ def using_concat(array,element)
   more_favs = ["sports cars", "flatiron school"]
  array.concat(more_favs)
 end  
+
+def using_insert(array, element)
+  
