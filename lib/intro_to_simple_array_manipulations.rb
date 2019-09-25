@@ -11,6 +11,7 @@ end
   end
 
 def using_pop(array)
-deleted_string = continents.pop
-end
-   
+  deleted_string = continents.pop
+  end
+  continents(deleted_string)
+end   
