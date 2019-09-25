@@ -26,5 +26,5 @@ end
 
 def using_concat(array, element)
   more_favs = ["sports cars", "flatiron school"]
-  concat(my_favorite_things, more_favs)
+ select concat(my_favorite_things, more_favs)
 end  
